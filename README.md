@@ -1,5 +1,9 @@
 **<h1 align="center"> Hi there 👋, Panupong Yapradith </h1>**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 **<h3 align="center">Let me introduce myself</h3>**
 #### Before I started coding I was a engineer fellow for 2 years in position quality control engineer I am in charge of ensuring the quality of all products in a multitude of industries, from manufacturing to software development. I also workclosely with quality assurance engineers possessing strong interpersonal skills.
 #### I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by [Generation Thailand.](https://thailand.generation.org)
