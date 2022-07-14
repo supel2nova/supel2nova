@@ -1,4 +1,4 @@
-**<h1 align="center"> Hi there 👋, Panupong Yapradith </h1>**
+**<h1 align="center"> Hi there 👋, I'm Panupong Yapradith </h1>**
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
