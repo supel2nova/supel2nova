@@ -4,10 +4,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-**<h3 align="left">Let me introduce myself</h3>**
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Let me introduce myself***
 
 #### Before I started coding I was a engineer fellow for 2 years in quality control engineer position. I am in charge of ensuring the quality of all products in a multitude of industries, from manufacturing to software development. I also workclosely with quality assurance engineers possessing strong interpersonal skills.
 #### I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by [Generation Thailand.](https://thailand.generation.org)
+
+- 🌱 I’m currently learning ...
+  - JavaScript
+  - React js
+- ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
+- Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
 
 **<h3 align="center">🛠️ Languages and Tools</h3>**
 
@@ -21,14 +27,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  
  
- 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supel2nova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <h3 align="center">STATUS</h3>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=supel2nova&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supel2nova&theme=react&layout=compact" />
+</p>
+
 
   ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=supel2nova.repoName) [![GitHub followers](https://img.shields.io/github/followers/supel2nova.svg?style=social&label=Follow)](https://github.com/supel2nova?tab=followers)<br/>
 
 
 <!--
