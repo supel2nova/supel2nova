@@ -10,7 +10,8 @@
 #### I'm a learner in Junior Software Developer (Full Stack Devloper) Bootcamp by [Generation Thailand.](https://thailand.generation.org)
 
 - 🔭 I’m currently working on ...
-  -<img src="https://avatars.githubusercontent.com/u/63220389?s=64&amp;v=4" alt="@oddsteam" size="16" height="16" width="16" >ODDS
+  - <img src="https://avatars.githubusercontent.com/u/63220389?s=64&amp;v=4" alt="@oddsteam" size="16" height="16" width="16" > ODDS
+
 
 - 🌱 I’m currently learning ...
   - JavaScript
@@ -29,7 +30,7 @@
 
 
 - ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
-- Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 🎵 listen to music, play game and 🌴 explore nature outdoors.
 
 
 <h3 align="center">Connect with me</h3>
