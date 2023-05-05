@@ -6,12 +6,25 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Let me introduce myself***
 
-#### Before I started coding I was a engineer fellow for 2 years in quality control engineer position. I am in charge of ensuring the quality of all products in a multitude of industries, from manufacturing to software development. I also work closely with quality assurance engineers possessing strong interpersonal skills.
-#### I'm a learner in Junior Sofrware Developer (Fullstack) bootcamp by [Generation Thailand.](https://thailand.generation.org)
+#### Before I started coding, I was an Engineer fellow for 3 years in quality control engineer position. I am in charge of ensuring the quality of all products in a multitude of industries, from manufacturing to software development. I also work closely with quality assurance engineers possessing strong interpersonal skills.
+#### I'm a learner in Junior Software Developer (Full Stack Devloper) Bootcamp by [Generation Thailand.](https://thailand.generation.org)
 
 - 🌱 I’m currently learning ...
   - JavaScript
-  - React js
+  - TypeScript
+  - Go
+  - React
+  - Tailwind
+  - MUI
+  - Mantine
+  - Antd
+  - Chakra
+  - SCSS
+  - Node
+  - MongoDB
+  - Express
+
+
 - ✔ Ask me about anything, I am happy to talk with everyone!😉<br>
 - Outside tech, 🎵 listen to music, and 🌴 explore nature outdoors.
 
