@@ -9,6 +9,9 @@
 #### Before I started coding, I was an Engineer fellow for 3 years in quality control engineer position. I am in charge of ensuring the quality of all products in a multitude of industries, from manufacturing to software development. I also work closely with quality assurance engineers possessing strong interpersonal skills.
 #### I'm a learner in Junior Software Developer (Full Stack Devloper) Bootcamp by [Generation Thailand.](https://thailand.generation.org)
 
+- 🔭 I’m currently working on ...
+  -<img src="https://avatars.githubusercontent.com/u/63220389?s=64&amp;v=4" alt="@oddsteam" size="16" height="16" width="16" >ODDS
+
 - 🌱 I’m currently learning ...
   - JavaScript
   - TypeScript
