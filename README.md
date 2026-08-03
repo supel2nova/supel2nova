@@ -140,7 +140,7 @@ Outside of coding I enjoy 🎮 Gaming, 🎵 Music and 🌿 Nature.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=supel2nova&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://trophy.benkou.dev/?username=supel2nova&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
