@@ -108,9 +108,9 @@ Outside of coding I enjoy 🎮 Gaming, 🎵 Music and 🌿 Nature.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=supel2nova&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=supel2nova&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supel2nova&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=supel2nova&layout=compact&theme=tokyonight"/>
 
 </p>
 
