@@ -52,15 +52,15 @@ Outside of coding I enjoy 🎮 Gaming, 🎵 Music and 🌿 Nature.
 # 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/panupong-yapradith-013391191">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/__.yuji__">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chal2aznable@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -165,9 +165,3 @@ Outside of coding I enjoy 🎮 Gaming, 🎵 Music and 🌿 Nature.
 </p>
 
 ---
-
-<p align="center">
-
-<i>"Building reliable software with clean architecture and great user experience."</i>
-
-</p>
