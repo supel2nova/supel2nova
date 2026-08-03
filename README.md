@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Panupong Yapradith</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Panupong%20Yapradith&fontAlign=50&fontAlignY=40&fontSize=55&desc=Software%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20Go&descAlignY=60&animation=fadeIn&color=gradient"/>
 </p>
 
 <p align="center">
