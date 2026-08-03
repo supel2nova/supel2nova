@@ -25,9 +25,9 @@ Outside tech, 🎵 I listen to music, play games, and 🌴 explore nature outdoo
 <h3 align="center">Connect with me</h3>
 <div align="center">
 
-[!image](https://www.linkedin.com/in/panupong-yapradith-013391191/)
-[!image](https://www.instagram.com/__.yuji__/)
-[!image](mailto:y.panupong.91@gmail.com)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 
 </div>
 
@@ -70,4 +70,4 @@ Outside tech, 🎵 I listen to music, play games, and 🌴 explore nature outdoo
 </p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-!Visitor [!GitHub followers](https://github.com/supel2nova?tab=followers)<br/>
+!Visitor <img src="https://img.shields.io/github/followers/supel2nova.svg?style=social&label=Follow" alt="GitHub followers"/><br/>
